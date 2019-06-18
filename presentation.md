@@ -1,6 +1,6 @@
 Annotated List of Resources
 ========================================================
-author: Bill Newmiller
+author: Bill Newmiller 
 date: 
 autosize: true
 
