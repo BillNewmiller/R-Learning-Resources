@@ -33,7 +33,29 @@ Content includes
 - Output functions  
 
 
-Slide With Plot
+Text Mining with R: A Tidy Approach
 ========================================================
+[Link to online book](https://www.tidytextmining.com/)
+By Julia Silge and David Robinson, released 16 May 2019.
 
-![plot of chunk unnamed-chunk-1](presentation-figure/unnamed-chunk-1-1.png)
+Content includes 
+- Tidy format  
+- Sentiment analysis (note: the package download does not have NRC lexicon. To run code, use only the lexicons provided in the titdytext package)  
+- Word and document frequency  
+- n-gram and correlations  
+- Conversion between tidy and non-tidy formats  
+- Topic modeling  
+- Case studies  
+- Includes a references  
+
+R Markdown
+========================================================
+[Link to tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
+
+Markdown is an authoring framework for building reports in a variety of formats to include MS Word, PDF, and HTML. This comprehensive tutorial shows how to use Markdown to create static documents, interactive documents, and dashboards.
+
+bookdown:Authoring Books and Technical Documents with R Markdown
+========================================================
+[Link to documentation](https://bookdown.org/yihui/bookdown/)
+
+Bookdown is based on Markdown, and can incorate multiple Markdown documents. Like Markdown, bookdown outputs multiple formats. Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary. In fact, many bookdown features apply to single R Markdown documents as well
