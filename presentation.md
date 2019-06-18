@@ -1,4 +1,4 @@
-presentation
+Annotated List of Resources
 ========================================================
 author: Bill Newmiller
 date: 
