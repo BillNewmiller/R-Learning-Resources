@@ -1,6 +1,7 @@
 Annotated List of Resources
 ========================================================
 author: Bill Newmiller 
+date: October 4, 2019
 
 
 
