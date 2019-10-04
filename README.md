@@ -59,5 +59,5 @@ bookdown:Authoring Books and Technical Documents with R Markdown
 ========================================================
 [Link to documentation](https://bookdown.org/yihui/bookdown/)
 
-Bookdown is based on Markdown, and can incorate multiple Markdown documents. Like Markdown, bookdown outputs multiple formats. Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary. In fact, many bookdown features apply to single R Markdown documents as well
+Bookdown is based on Markdown and can incorate multiple Markdown documents. Like Markdown, bookdown outputs multiple formats. Despite the package name containing the word “book”, bookdown is not only for books. The “book” can be anything that consists of multiple R Markdown documents meant to be read in a linear sequence, such as course handouts, study notes, a software manual, a thesis, or even a diary. In fact, many bookdown features apply to single R Markdown documents as well
 
